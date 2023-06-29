@@ -11,5 +11,5 @@ npm i
 
 # generate 100 tweets based on a search query
 
-npm run genearate SEARCH_QUERY_HERE
+npm run generate SEARCH_QUERY_HERE
 ```
